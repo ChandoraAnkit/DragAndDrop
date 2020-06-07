@@ -4,7 +4,6 @@ A sample android app to show the drag and drop feature in recycler view on Andro
 (Yoga Steps App)
 
 Used :-<br />
-       
          i)   [Recycler View][1]<br />
          ii)  [ItemTouchHelper][2]<br />
          iii) Kotlin<br />
