@@ -1,9 +1,10 @@
 # DragAndDrop
 
 A sample android app to show the drag and drop feature in recycler view on Android app.
-(Yoga Steps)
+(Yoga Steps App)
 
-Used :-
+Used :-<br />
+       
          i)   [Recycler View][1]<br />
          ii)  [ItemTouchHelper][2]<br />
          iii) Kotlin<br />
@@ -11,6 +12,7 @@ Used :-
     
     
  Here's what it looks like:
+ 
 ![Output sample](https://j.gifs.com/r8G7kk.gif)
 
 
